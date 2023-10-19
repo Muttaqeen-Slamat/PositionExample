@@ -46,5 +46,17 @@ h2{
     right: 0;
     background-color: green;
     border: 2px solid;
+}
 
+#fix{
+    position: fixed;
+    border: 10px solid magenta;
+    background-color: black;
+    color: white;
+    height: 150px;
+}
+
+footer {
+    height: 2px;
+    bottom: 2px;
 }
