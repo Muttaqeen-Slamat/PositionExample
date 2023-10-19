@@ -16,7 +16,7 @@ div{
     color: black;
 }
 
-h2{
+h1{
     position: relative;
     border: 15px double black;
     text-align: center;
@@ -26,10 +26,6 @@ h2{
 
 #box1{
     position: relative;
-    border: 15px double black;
-    text-align: center;
-    color: blue;
-    background-color: aqua;
 }
 
 #box2 {
@@ -45,3 +41,10 @@ h2{
     background-color: grey;
 }
 
+#Abso{
+    position: absolute;
+    right: 0;
+    background-color: green;
+    border: 2px solid;
+
+}
