@@ -6,7 +6,42 @@
     box-sizing: border-box;
 }
 
-h1,p{
+body{
+    text-align: center;
+    color: maroon;
+    font-size: 1.2rem;
+}
+
+div{
+    color: black;
+}
+
+h2{
+    position: relative;
+    border: 15px double black;
     text-align: center;
     color: blue;
+    background-color: aqua;
 }
+
+#box1{
+    position: relative;
+    border: 15px double black;
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+}
+
+#box2 {
+    position: sticky;
+    top: 0;
+    background-color: grey;
+}
+
+h2{
+    
+    border: 8px dotted yellow;
+    color: turquoise;
+    background-color: grey;
+}
+
